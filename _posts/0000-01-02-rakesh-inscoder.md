@@ -1,7 +1,8 @@
 ---
 layout: presentation
 ---
-
+<div>test</div>
+something new
 {% for post in site.posts reversed %}
 	{% include slide.html %}
 	<div class="page-break"></div>
